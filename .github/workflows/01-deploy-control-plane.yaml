@@ -19,6 +19,7 @@ on:
         type: choice
         options:
           - TEST2-WEEU-SAP_LIBRARY
+          - TEST3-WEEU-SAP_LIBRARY
       use_webapp:
         default: true
         description: Deploy the configuration web application infrastructure
